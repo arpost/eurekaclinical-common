@@ -1,5 +1,7 @@
 # Eureka! Clinical Common Web Application Framework
-[Georgia Clinical and Translational Science Alliance (Georgia CTSA)](http://www.georgiactsa.org), [Emory University](http://www.emory.edu), Atlanta, GA
+[Andrew Post](http://www.andrewrpost.com), Salt Lake City, UT
+
+Derived from software previously developed by me and my team at the [Georgia Clinical and Translational Science Alliance (Georgia CTSA)](http://www.georgiactsa.org), [Emory University](http://www.emory.edu), Atlanta, GA
 
 ## What does it do?
 It implements a custom web application development framework that uses best of breed components:
