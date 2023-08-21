@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>eurekaclinical-common</artifactId>
     <name>Eureka! Clinical Common</name>
-    <version>5.0-Alpha-5-SNAPSHOT</version>
+    <version>6.0-Alpha-1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <description>A library of classes shared across the Eureka! Clinical platform.</description>
     
@@ -14,7 +14,7 @@
     </parent>
     
     <properties>
-        <eurekaclinical-standard-apis-version>[4.99,5.0]</eurekaclinical-standard-apis-version>
+        <eurekaclinical-standard-apis-version>[4.99,5.0)</eurekaclinical-standard-apis-version>
     </properties>
     
     <url>https://github.com/arpost/eurekaclinical-common.git</url>
